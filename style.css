@@ -31,15 +31,6 @@
     border-radius: 10%;
 }
 
-/* .atm-buttons-container{
-    display: flex;
-    flex: 1;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
-} */
-
-
 .atm-buttons-container {
     display: flex;
     justify-content: space-evenly;
@@ -59,7 +50,6 @@
 }
 
 .input{
-    /* display: none; */
 }
 
 
@@ -81,7 +71,7 @@
 
 }
 
-
-.input-container-wrapper--invisible{
+.input-container--invisible{
     display: none;
+
 }
